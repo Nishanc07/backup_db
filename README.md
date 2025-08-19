@@ -11,6 +11,8 @@ Features
 - Uploads backups to Azure Blob Storage automatically.
 - scheduled to run daily using cron
 
+![alt text](https://github.com/Nishanc07/backup_db/blob/main/public/Screenshot%202025-08-19%20at%2015.35.52.png)
+
 Validation:
 
 Postgres:
