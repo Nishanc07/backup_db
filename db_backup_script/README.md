@@ -40,6 +40,8 @@ Once you are in the db verify:
 test_mypgdb=> \dt
 SELECT \* FROM users;
 
+![alt text](https://github.com/Nishanc07/backup_db/blob/main/public/Screenshot%202025-08-19%20at%2014.59.39.png)
+
 Mysql:
 
 After creating a test db run this command to take db
@@ -56,3 +58,7 @@ mysql -u mysql -p'mysql123' -h localhost -D test_mydb
 
 SHOW TABLES;
 SELECT \* FROM users;
+
+![alt text](https://github.com/Nishanc07/backup_db/blob/main/public/Screenshot%202025-08-19%20at%2015.02.04.png)
+
+![alt text](https://github.com/Nishanc07/backup_db/blob/main/public/Screenshot%202025-08-19%20at%2015.07.31.png)
