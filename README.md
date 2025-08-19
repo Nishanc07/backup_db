@@ -2,7 +2,14 @@
 
 Ensure daily backups for PostgreSQL and MySQL databases, compress them, and upload to Azure Blob Storage.
 
-Features
+## Prerequisits:
+
+- Install PostgreSQL & MySQL, create databases and users, grant all privileges.
+- Ensure PostgreSQL and MySQL users can access their databases.
+- Install Azure CLI and log in with az login.
+- Verify database access and Azure connectivity before running the backup script.
+
+## Features
 
 - Backs up a specific table in PostgreSQL (permissions issues)
 - Backs up an entire MySQL database.
